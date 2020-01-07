@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\bin\Debug\GiaoDienSRM.exe.config
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\bin\Debug\GiaoDienSRM.exe
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\bin\Debug\GiaoDienSRM.pdb
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.Form1.resources
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.Properties.Resources.resources
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.exe
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.pdb
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\GiaoDienSRM\GiaoDienSRM\obj\Debug\GiaoDienSRM.csproj.CopyComplete
